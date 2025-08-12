@@ -1,16 +1,18 @@
-## Hi there 👋
+<div id="title" align=center>
+<img width="400" height="400" alt="image" src="icon.jpg"/>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=By-chi&show_icons=true&title_color=29903b&text_color=1f6feb&border_color=ffffff&bg_color=8899aa&border_radius=9.0"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=By-chi&show_icons=false"/>
+</picture>
 
-<!--
-**By-chi/By-chi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Bilibili](https://img.shields.io/badge/Bilibili-By_chi-yello)](https://space.bilibili.com/1909594131)
 
-Here are some ideas to get you started:
+![](https://img.shields.io/badge/code-C/C++&GDs-blue)
+![](https://img.shields.io/badge/讨厌-学习-yellow) 
+![](https://img.shields.io/badge/性格-开朗/腼腆叠加态-red) 
+![](https://img.shields.io/badge/爱好-Godot&自己&¥-red)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
