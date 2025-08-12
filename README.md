@@ -11,7 +11,7 @@
 [![Bilibili](https://img.shields.io/badge/Bilibili-By_chi-yello)](https://space.bilibili.com/1909594131)
 
 ![](https://img.shields.io/badge/code-C/C++&GDs-blue)
-![](https://img.shields.io/badge/讨厌-学习-yellow) 
+![](https://img.shields.io/badge/学业-准高一-yellow) 
 ![](https://img.shields.io/badge/性格-开朗/腼腆叠加态-red) 
 ![](https://img.shields.io/badge/爱好-Godot&自己&¥-red)
 
